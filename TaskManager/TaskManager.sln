@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBSqlLite", "DBSqlLite\DBSqlLite.csproj", "{60B4F551-1359-409C-B398-415D9648AF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{9CFAC768-497B-4EE4-9764-FEC795653DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerAPI", "TaskManagerAPI\TaskManagerAPI.csproj", "{BB279B69-AE9A-456A-9D5B-4E53CA15AFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B4F551-1359-409C-B398-415D9648AF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B4F551-1359-409C-B398-415D9648AF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B4F551-1359-409C-B398-415D9648AF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B4F551-1359-409C-B398-415D9648AF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFAC768-497B-4EE4-9764-FEC795653DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFAC768-497B-4EE4-9764-FEC795653DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFAC768-497B-4EE4-9764-FEC795653DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFAC768-497B-4EE4-9764-FEC795653DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB279B69-AE9A-456A-9D5B-4E53CA15AFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB279B69-AE9A-456A-9D5B-4E53CA15AFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB279B69-AE9A-456A-9D5B-4E53CA15AFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB279B69-AE9A-456A-9D5B-4E53CA15AFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8FBA2D7-2B5B-4083-BF3B-3A2676E4FB5C}
+	EndGlobalSection
+EndGlobal
